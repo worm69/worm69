@@ -48,4 +48,11 @@
   <img align="right" height="180em" alt="worm69-worms-training" src="https://c.tenor.com/UZacyI4MaJIAAAAi/worms-ejercicio.gif">
   <img align="right" height="180em" alt="worm69-yoda" src="https://media3.giphy.com/media/aKVtbgxmFukDu/giphy.gif?cid=ecf05e473ztsekpk10i21ldmv2xe4xaa1px7ep98gexcn6mg&rid=giphy.gif&ct=g">
 </div>
-  
+    ##
+ 
+<div> 
+  <a href = "mailto:gomes[removeMeToAVoidSpam]danielbm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-bm-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+	
+	![Snake animation](https://github.com/worm69/worm69/blob/output/github-contribution-grid-snake.svg)
