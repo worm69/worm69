@@ -1,5 +1,6 @@
 
-## Hi! I am worm69 aka Daniel Gomes 
+## Hi! I am worm69 aka Daniel Gomes
+
  <div>
   <a href="https://github.com/worm69">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=worm69&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -37,22 +38,22 @@
   
   <img align="center" alt="worm69-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
     <img align="center" alt="worm69-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-	  <img align="center" alt="worm69-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-	    <img align="center" alt="worm69-mssql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-		  <img align="center" alt="worm69-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg">
-		    <img align="center" alt="worm69-treejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg">
-			  <img align="center" alt="worm69-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
-			    <img align="center" alt="worm69-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-				  <img align="center" alt="worm69-yii2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg">
- 
+   <img align="center" alt="worm69-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+     <img align="center" alt="worm69-mssql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    <img align="center" alt="worm69-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg">
+      <img align="center" alt="worm69-treejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg">
+     <img align="center" alt="worm69-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
+       <img align="center" alt="worm69-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+      <img align="center" alt="worm69-yii2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg">
+
   <img align="right" height="180em" alt="worm69-worms-training" src="https://c.tenor.com/UZacyI4MaJIAAAAi/worms-ejercicio.gif">
   <img align="right" height="180em" alt="worm69-yoda" src="https://media3.giphy.com/media/aKVtbgxmFukDu/giphy.gif?cid=ecf05e473ztsekpk10i21ldmv2xe4xaa1px7ep98gexcn6mg&rid=giphy.gif&ct=g">
 </div>
     ##
- 
-<div> 
+
+<div>
   <a href = "mailto:gomes[removeMeToAVoidSpam]danielbm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-bm-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniel-bm-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -62,5 +63,23 @@
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
-	
+# 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Best VS Code Extension EVER!! 🔥🔥🔥](https://www.youtube.com/watch?v=9Ih0OHQ_3B8)
+- [Best VS Code Extension for JavaScript Console Logging](https://www.youtube.com/watch?v=tLZnV1YO45g)
+- [Web Development 101: A Beginner&#39;s Guide to Launching a Successful Career in 2023](https://www.youtube.com/watch?v=8aosxBJQdVc)
+- [VS Code: Easy Refactoring!](https://www.youtube.com/watch?v=E5G6N78mMAc)
+- [Maximize Your Online Presence using this Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM)
+<!-- YOUTUBE:END -->
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<!-- https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md>
 ![Snake animation](https://github.com/worm69/worm69/blob/output/github-contribution-grid-snake.svg)
