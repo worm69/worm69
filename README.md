@@ -77,10 +77,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#22787](https://github.com/cockpit-project/cockpit/issues/22787) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
-2. ❗ Opened issue [#22787](https://github.com/cockpit-project/cockpit/issues/22787) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
-3. 🗣 Commented on [#57](https://github.com/jfoclpf/in-my-district/issues/57#issuecomment-1565565942) in [jfoclpf/in-my-district](https://github.com/jfoclpf/in-my-district)
-4. 🗣 Commented on [#57](https://github.com/jfoclpf/in-my-district/issues/57#issuecomment-1564684727) in [jfoclpf/in-my-district](https://github.com/jfoclpf/in-my-district)
+1. 🔒 Closed issue [#22787](https://github.com/cockpit-project/cockpit/issues/22787) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+2. 🗣 Commented on [#22787](https://github.com/cockpit-project/cockpit/issues/22787#issuecomment-3864817930) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+3. ℹ️ Labeled issue [#22787](https://github.com/cockpit-project/cockpit/issues/22787) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+4. ❗ Opened issue [#22787](https://github.com/cockpit-project/cockpit/issues/22787) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
 5. 🗣 Commented on [#57](https://github.com/jfoclpf/in-my-district/issues/57#issuecomment-1561914334) in [jfoclpf/in-my-district](https://github.com/jfoclpf/in-my-district)
 <!--END_SECTION:activity-->
 
