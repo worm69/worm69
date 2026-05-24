@@ -77,8 +77,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#434](https://github.com/Prowlarr/Indexers/pull/434#issuecomment-4068836416) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
-2. 🗣 Commented on [#434](https://github.com/Prowlarr/Indexers/pull/434#issuecomment-4032189350) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+1. 🗣 Commented on [#3079](https://github.com/morpheus65535/bazarr/pull/3079#issuecomment-4508658686) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+2. 🗣 Commented on [#276](https://github.com/jfoclpf/form-for-parking-violation/issues/276#issuecomment-4508240180) in [jfoclpf/form-for-parking-violation](https://github.com/jfoclpf/form-for-parking-violation)
 3. 🗣 Commented on [#22787](https://github.com/cockpit-project/cockpit/issues/22787#issuecomment-3864817930) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
 4. ℹ️ Labeled issue [#22787](https://github.com/cockpit-project/cockpit/issues/22787) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
 5. ❗ Opened issue [#22787](https://github.com/cockpit-project/cockpit/issues/22787) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
